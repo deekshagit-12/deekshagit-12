@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deeksha Bajpai</h1>
 <h3 align="center">A passionate final-year Computer Science Engineering student with a strong interest in machine learning and web development.</h3>
 
-- 📫 How to reach me **paarthbajpai16@gmail.com**
+- 📫 How to reach me **deekshabajpai552@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
